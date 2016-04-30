@@ -9,7 +9,6 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 <body>
-
 <div class="container">
   <h2>What type?</h2>
   <a href="http://www.google.com" class="btn btn-info" role="button">Sweet</a>
@@ -17,6 +16,5 @@
   <a href="http://www.google.com" class="btn btn-info" role="button">Easy</a>
   <a href="http://www.google.com" class="btn btn-info" role="button">Spicy</a>
 </div>
-
 </body>
 </html>
